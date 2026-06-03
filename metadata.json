@@ -1,0 +1,6 @@
+{
+  "name": "Aetherion Hypercar Concept",
+  "description": "A world-class cinematic hypercar concept website for the fictional ultra luxury electric hypercar brand Aetherion. Engineered with dark luxury aesthetics, telemetry stats, detailed exploded mechanics, interior showcases, responsive ambient grids, and pristine mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
